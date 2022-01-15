@@ -6,5 +6,5 @@
         {"name": "Nokia 3.2 - Crni", "prise":15990, "file_name":"nokia.png" },
         {"name": "Honor 20 - Plavi", "prise": 42990, "file_name":"honor.png" },
         {"name": "ROKiT iO Pro 3D - Crni", "prise": 13990, "file_name":"rokit.png"},
-        {"name": "Alcatel 1C DS - Crni", "prise": 6990, "file_name":"alcatel.png"},
+        {"name": "Alcatel 1C DS - Crni", "prise": 6990, "file_name":"alcatel.png"}
 ]
